@@ -1,4 +1,4 @@
-require_relative '../current_age_for_birth_year.rb'
+
 
 describe "current_age_for_birth_year method" do
   it "returns the age of a person based on the year of birth" do
@@ -8,4 +8,4 @@ describe "current_age_for_birth_year method" do
   end
 end
 def current_age_for_birth_year(birth_year)
-end
+endrequire_relative '../current_age_for_birth_year.rb'
